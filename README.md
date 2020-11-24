@@ -1,2 +1,2 @@
-# social buddy App
+# Social Buddy App
 
